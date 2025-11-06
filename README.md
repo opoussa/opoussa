@@ -5,8 +5,9 @@ Expertise:
 Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
 
 
-🔭 Currently working on:
-<h2><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h2> 
+<h2>🔭 Currently working on:</h2>
+
+<h4><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h4> 
 An app that helps you the cheapest beer in your immediate vicinity.
 
 Technologies used:
