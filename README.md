@@ -1,15 +1,20 @@
 ## Welcome to my profile!
 Always looking for new challenges!
 
+Expertise: 
+Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
+
+
 🔭 Currently working on:
 <h2><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h2> 
 An app that helps you the cheapest beer in your immediate vicinity.
 
 Technologies used:
-React, Leaflet, MaterialUI in the frontend.
+React, TypeScript, Leaflet, MaterialUI in the frontend.
 
 Spring Boot, PostgreSQL in the backend.
 
+----
   
 🌱 Meanwhile learning how to create over-complicated microservices!
 
