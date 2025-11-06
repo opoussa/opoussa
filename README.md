@@ -7,14 +7,15 @@ Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
 
 <h2>🔭 Currently working on:</h2>
 
-<h4><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h4> 
+<h3><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h3> 
 An app that helps you the cheapest beer in your immediate vicinity.
-
+<br>
 Technologies used:
-React, TypeScript, Leaflet, MaterialUI in the frontend.
+<ul>
+<li>React, TypeScript, Leaflet, MaterialUI in the frontend.</li>
 
-Spring Boot, PostgreSQL in the backend.
-
+<li>Spring Boot, PostgreSQL in the backend.</li>
+</ul>
 ----
   
 🌱 Meanwhile learning how to create over-complicated microservices!
