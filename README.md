@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my profile!
+- Always looking for new challenges!
+
+- 🔭 I’m currently working on happy-pour: an app that helps you the cheapest beer in your immediate vicinity. 
+  
+- 🌱 I’m currently learning how to create over-complicated microservices!
 
 <!--
 **opoussa/opoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
