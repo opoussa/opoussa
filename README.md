@@ -10,7 +10,7 @@ Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
 <h3><a href="https://github.com/a-pak/happy-pour">Happy Pour</a></h3> 
 An app that helps you the cheapest beer in your immediate vicinity.
 <br>
-An alpha version is now live <a href="https://happypour.duckdns.net">here</a>!
+An alpha version is now live <a href="https://happypour.duckdns.org">here</a>!
 <br>
 Technologies used:
 <ul>
