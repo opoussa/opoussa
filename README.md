@@ -15,15 +15,10 @@ An alpha version is now live <a href="https://happypour.duckdns.org">here</a>!
 <br>
 Technologies used:
 <ul>
-  Frontend
   <li>React</li>
   <li>TypeScript</li>
-  <li>Leaflet</li>
+  <li>Leaflet OpenStreetMap</li>
   <li>MaterialUI</li>
-  
-  <br>
-  
-  Backend
   <li>Spring Boot</li>
   <li>PostgreSQL</li>
 </ul>
@@ -31,13 +26,12 @@ Technologies used:
 <h2>📘 Past projects:</h2>
 
 <h3><a href="https://gitlab.com/KoodimanHD/metropay">MetroPay (GitLab)</a></h3>
-A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project).
+<p>A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project).</p>
 <br>
 Technologies used:
 <ul>
   <li>JavaFX</li>
   <li>Hibernate</li>
-  <li>MvC architecture</li>
   <li>Jenkins CI/CD</li>
   <li>MariaDB</li>
 </ul>
