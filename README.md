@@ -4,7 +4,7 @@ An aspiring software developer looking for new challenges!
 Expertise: 
 Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
 
-Learning about data pipelines, Kafka event streams and LLM 
+🌱 Learning about data pipelines, Kafka event streams and LLM 
 
 <h2>🔭 Currently working on:</h2>
 
@@ -15,9 +15,17 @@ An alpha version is now live <a href="https://happypour.duckdns.org">here</a>!
 <br>
 Technologies used:
 <ul>
-<li>React, TypeScript, Leaflet, MaterialUI in the frontend.</li>
-
-<li>Spring Boot, PostgreSQL in the backend.</li>
+  Frontend
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>Leaflet</li>
+  <li>MaterialUI</li>
+  
+  <br>
+  
+  Backend
+  <li>Spring Boot</li>
+  <li>PostgreSQL</li>
 </ul>
 ----
 <h2>📘 Past projects:</h2>
