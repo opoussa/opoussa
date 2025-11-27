@@ -4,6 +4,7 @@ An aspiring software developer looking for new challenges!
 Expertise: 
 Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
 
+Learning about data pipelines, Kafka event streams and LLM 
 
 <h2>🔭 Currently working on:</h2>
 
@@ -19,20 +20,19 @@ Technologies used:
 <li>Spring Boot, PostgreSQL in the backend.</li>
 </ul>
 ----
-  
-🌱 Meanwhile learning how to create over-complicated microservices!
+<h2>📘 Past projects:</h2>
 
-<!--
-**opoussa/opoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><a href="https://gitlab.com/KoodimanHD/metropay">MetroPay (GitLab)</a></h3>
+A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project).
+<br>
+Technologies used:
+<ul>
+  <li>JavaFX</li>
+  <li>Hibernate</li>
+  <li>MvC architecture</li>
+  <li>Jenkins CI/CD</li>
+  <li>MariaDB</li>
+</ul>
+----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**opoussa/opoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
