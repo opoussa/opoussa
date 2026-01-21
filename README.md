@@ -4,10 +4,10 @@ An aspiring software developer looking for new challenges!
 Expertise: 
 Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
 
-🌱 Learning Kubernetes, Kafka event streams and LLMs 
+📖 Learning Kubernetes, Kafka event streams and LLMs 
 
 <h2>🔭 Currently working on:</h2>
-<h3><a href="https://github.com/opoussa/KubernetesSubmissions">DevOps with Kubernetes MOOC</a></h3>
+<h3><a href="https://github.com/opoussa/KubernetesSubmissions">DevOps with Kubernetes MOOC</a></h3> ⛵
 I am doing the University of Helsinki MOOC course on DevOps using Kubernetes.
 <br>
 Currently building apps using Spring boot🌱☕.
