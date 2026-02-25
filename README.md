@@ -3,6 +3,7 @@ An aspiring software developer looking for new challenges!
 
 Expertise: 
 Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
+<br>
 React.js ⚛️, Vue.js ✌️ (2 years)
 Spring Boot 🌱 (2 years)
 
