@@ -2,9 +2,11 @@
 An aspiring software developer looking for new challenges!
 
 Expertise: 
-Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years) 
+Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
+React.js ⚛️, Vue.js ✌️ (2 years)
+Spring Boot 🌱 (2 years)
 
-📖 Learning Kubernetes, Kafka event streams and LLMs 
+📖 Learning Kubernetes, Kafka event streams, Kotlin and LLM 
 
 ---
 ## 🔭 Currently working on:
@@ -15,7 +17,7 @@ Currently building apps using Spring boot🌱☕.<br>
 
 
 ### [Happy Pour 🍺](https://github.com/a-pak/happy-pour) 
-An app that helps you the cheapest beer in your immediate vicinity.<br>
+An app that helps you the cheapest drinks in your immediate vicinity.<br>
 
 An alpha version is now live [here!](https://happypour.duckdns.org)<br>
 
