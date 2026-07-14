@@ -7,7 +7,7 @@ Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
 React.js ⚛️, Vue.js ✌️ (2 years)
 Spring Boot 🌱 (2 years)
 
-📖 Learning Kubernetes, Kafka event streams, Kotlin and LLM 
+📖 Learning about Kubernetes, Generative AI, OAuth 2, Vue 3 
 
 ---
 ## 🔭 Currently working on:
@@ -33,7 +33,7 @@ Technologies used:
 ----
 ## 📘 Past projects:
 
-### [MetroPay (GitLab)](https://gitlab.com/KoodimanHD/metropay)
+### [MetroPay (GitLab) (2022)](https://gitlab.com/KoodimanHD/metropay)
 A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project)
 
 Technologies used:
