@@ -18,7 +18,7 @@ Currently building apps using Spring boot🌱☕.<br>
 
 
 ### [Happy Pour 🍺](https://github.com/a-pak/happy-pour) 
-An app that helps you the cheapest drinks in your immediate vicinity.<br>
+An app that helps you find the cheapest drinks in your immediate vicinity.<br>
 
 An alpha version is now live [here!](https://happypour.duckdns.org)<br>
 
