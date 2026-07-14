@@ -43,7 +43,9 @@ Technologies used:
   - MariaDB
 
 ### [Marketing Content Generator (2023)](https://github.com/hannemsalmi/marketing-content-generator) 
-AI-Driven Content Generator for Salesforce Marketing Cloud with GPT-4. Generator uses a Node.js service that generates prompts to OpenAI api from input made in the [Salesforce frontend](https://github.com/hannemsalmi/content-generator-frontend). Made as an innovational collaborative project for Fluido company at Metropolia University of Applied Sciences.
+AI-Driven Content Generator for Salesforce Marketing Cloud with GPT-4. Generator uses a Node.js service that generates prompts to OpenAI api from input made in the [Salesforce frontend](https://github.com/hannemsalmi/content-generator-frontend). 
+
+Made as an innovational collaborative project for Fluido company at Metropolia University of Applied Sciences.
 
 Technologies used:
  - Node.js
