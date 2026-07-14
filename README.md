@@ -33,7 +33,7 @@ Technologies used:
 ----
 ## 📘 Past projects:
 
-<h3><a href="https://gitlab.com/KoodimanHD/metropay">MetroPay (GitLab)</a></h3>
+### [MetroPay (GitLab)](https://gitlab.com/KoodimanHD/metropay)
 A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project)
 
 Technologies used:
@@ -42,6 +42,13 @@ Technologies used:
   - Jenkins CI/CD
   - MariaDB
 
-----
+### [Marketing Content Generator (2023)](https://github.com/hannemsalmi/marketing-content-generator) 
+AI-Driven Content Generator for Salesforce Marketing Cloud with GPT-4. Generator uses a Node.js service that generates prompts to OpenAI api from input made in the [Salesforce frontend](https://github.com/hannemsalmi/content-generator-frontend). Made as an innovational collaborative project at Metropolia University of Applied Sciences.
+
+Technologies used:
+ - Node.js
+ - Express.js
+ - Salesforce Lightning Web Components
+ - OpenAI API
 
 <!--**opoussa/opoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
