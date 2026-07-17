@@ -1,26 +1,26 @@
 ## Welcome to my profile!
-An aspiring software developer looking for new challenges!
 
-Expertise: 
-Java ☕(5 years), JavaScript 🍋 + TypeScript 🔠 (4 years)
+### Basic Info:
+Software Engineer (Metropolia UAS) 🎓
+ 
+Java ☕, JavaScript/TypeScript 🍋
 <br>
-React.js ⚛️, Vue.js ✌️ (2 years)
-Spring Boot 🌱 (2 years)
+React.js :atom:, Vue.js :v:, Spring Boot 🌱
 
 📖 Learning about Kubernetes, Generative AI, OAuth 2, Vue 3 
 
 ---
-## 🔭 Currently working on:
-### [DevOps with Kubernetes MOOC ⛵](https://github.com/opoussa/KubernetesSubmissions)
+### 🔭 Currently working on:
+#### [DevOps with Kubernetes MOOC ⛵](https://github.com/opoussa/KubernetesSubmissions)
 I am doing the University of Helsinki MOOC course on DevOps using Kubernetes.
 <br>
 Currently building apps using Spring boot🌱☕.<br>
 
 
-### [Happy Pour 🍺](https://github.com/a-pak/happy-pour) 
+#### [Happy Pour 🍺](https://github.com/a-pak/happy-pour) 
 An app that helps you find the cheapest drinks in your immediate vicinity.<br>
 
-An alpha version is now live [here!](https://happypour.duckdns.org)<br>
+~An alpha version is now live [here!](https://happypour.duckdns.org)<br>~ <i>The server is on vacation at the moment. Sit tight!</i>
 
 Technologies used:
   - React
@@ -31,9 +31,9 @@ Technologies used:
   - PostgreSQL
 
 ----
-## 📘 Past projects:
+### 📘 Past projects:
 
-### [MetroPay (GitLab) (2022)](https://gitlab.com/KoodimanHD/metropay)
+#### [MetroPay (GitLab) (2022)](https://gitlab.com/KoodimanHD/metropay)
 A Java-based money exchange desktop app with traditional architecture, Jenkins CI/CD pipeline and high documentation and test coverage (school project)
 
 Technologies used:
@@ -42,7 +42,7 @@ Technologies used:
   - Jenkins CI/CD
   - MariaDB
 
-### [Marketing Content Generator (2023)](https://github.com/hannemsalmi/marketing-content-generator) 
+#### [Marketing Content Generator (2023)](https://github.com/hannemsalmi/marketing-content-generator) 
 AI-Driven Content Generator for Salesforce Marketing Cloud with GPT-4. Generator uses a Node.js service that generates prompts to OpenAI api from input made in the [Salesforce frontend](https://github.com/hannemsalmi/content-generator-frontend). 
 
 Made as an innovational collaborative project for Fluido company at Metropolia University of Applied Sciences.
