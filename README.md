@@ -1,13 +1,14 @@
 ## Welcome to my profile!
 
 ### Basic Info:
-Software Engineer (Metropolia UAS) 🎓
+Full Stack Developer 💼
+Bachelor of Software Engineering (Metropolia UAS) 🎓
  
 Java ☕, JavaScript/TypeScript 🍋
 <br>
 React.js :atom:, Vue.js :v:, Spring Boot 🌱
 
-📖 Learning about Kubernetes, Generative AI, OAuth 2, Vue 3 
+📖 Learning about Kubernetes, Generative AI, OAuth2, Vue 3
 
 ---
 ### 🔭 Currently working on:
