@@ -2,6 +2,7 @@
 
 ### Basic Info:
 Full Stack Developer 💼
+
 Bachelor of Software Engineering (Metropolia UAS) 🎓
  
 Java ☕, JavaScript/TypeScript 🍋
