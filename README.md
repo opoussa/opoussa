@@ -1,8 +1,7 @@
 ## Welcome to my profile!
 
 ### Basic Info:
-Full Stack Developer 💼
-
+Full Stack Developer 💼\
 Bachelor of Software Engineering (Metropolia UAS) 🎓
  
 Java ☕, JavaScript/TypeScript 🍋
